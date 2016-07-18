@@ -30,12 +30,14 @@ elif (myNum > 30 and myNum < 50):
 else:
 	print "i m below 30"
 
-myString1 = "Hello"
+#myString1 = "Hello"
 
-if (myString1.lower() == 'hello'):
-	print "right word"
-else:
-	print "Unmatched string"
+#if (myString1.lower() == 'hello'):
+#	print "right word"
+#else:
+#	print "Unmatched string"
 
+
+print "Demo purpose"
 userInput = sys.argv[0]
 print userInput
