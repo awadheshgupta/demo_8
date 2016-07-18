@@ -4,8 +4,8 @@ import os
 
 userAllInput = sys.argv
 print userAllInput
-print "Number of argument ", len(sys.argv)
-print "Argument list : ", str(sys.argv)
+#print "Number of argument ", len(sys.argv)
+#print "Argument list : ", str(sys.argv)
 index = 0
 for localVar in sys.argv:
 	print "Index" + str(index) + " :" + localVar

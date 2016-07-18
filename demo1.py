@@ -22,13 +22,13 @@ getPWDOutput = os.system('awadhesh')
 print "My command status : " + str(getPWDOutput)
 print "My command status : ", getPWDOutput
 
-myNum = 20
-if (myNum > 50):
-	print "i got 50"
-elif (myNum > 30 and myNum < 50):
-	print "i m below 50"
-else:
-	print "i m below 30"
+#myNum = 20
+#if (myNum > 50):
+#	print "i got 50"
+#elif (myNum > 30 and myNum < 50):
+#	print "i m below 50"
+#else:
+#	print "i m below 30"
 
 #myString1 = "Hello"
 
